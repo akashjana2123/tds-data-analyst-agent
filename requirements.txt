@@ -1,0 +1,13 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.1
+python-multipart==0.0.6
+python-dotenv==1.0.0
+scipy==1.11.2
+Pillow==10.1.0
+duckdb>=1.0.0   # optional: for large parquet/duckdb work if needed
+pyarrow>=14.0.1  # optional: for parquet
